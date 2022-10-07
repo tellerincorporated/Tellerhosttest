@@ -4,7 +4,8 @@
   "description": "Free hosting services by teller oganization a mel initiatives ",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon index.js"
+    "test": "nodemon index.js",
+    "start": "nodemon index.js"
   },
   "keywords": [
     "Free",
